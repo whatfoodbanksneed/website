@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "website",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "engines": {
+    "node": "12.13.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
